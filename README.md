@@ -1,5 +1,5 @@
 ## 欢迎来到地震事件识别定位计算平台
-<center><p>![Image of LOGO01](https://zhandyg.github.io/SeismicMatch-Location/LOGO01.png)</p></center>
+<center><p>![Image of LOGO03](https://zhandyg.github.io/SeismicMatch-Location/LOGO03.png)</p></center>
 
 You can use the [editor on GitHub](https://github.com/zhandyg/SeismicMatch-Location/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
