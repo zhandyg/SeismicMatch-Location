@@ -1,7 +1,6 @@
 ## 欢迎来到地震事件识别定位计算平台
-<div align=center><img src="https://zhandyg.github.io/SeismicMatch-Location/LOGO03.png" /></div>
-
-本平台借助内蒙古自治区地震局地震监测中心的软硬件环境搭建，使用模板匹配的功能进行地震事件的识别和定位
+<div align=center><img src="https://zhandyg.github.io/SeismicMatch-Location/LOGO03.png" /></div><br>
+本平台借助内蒙古自治区地震局地震监测中心的软硬件环境搭建，使用模板匹配的功能进行地震事件的识别和定位<br>
 
 ### 说明
 
