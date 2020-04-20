@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-![Image of Yaktocat](https://zhandyg.github.io/SeismicMatch-Location/LOGO01.png)
+![Image of LOGO01](https://zhandyg.github.io/SeismicMatch-Location/LOGO01.png)
 You can use the [editor on GitHub](https://github.com/zhandyg/SeismicMatch-Location/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
