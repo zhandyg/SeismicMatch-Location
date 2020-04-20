@@ -1,39 +1,23 @@
 ## 欢迎来到地震事件识别定位计算平台
 <div align=center><img src="https://zhandyg.github.io/SeismicMatch-Location/LOGO03.png"/></div>
 
+本平台借助内蒙古自治区地震局地震监测中心的软硬件环境搭建，使用模板匹配的功能进行地震事件的识别和定位
 
-You can use the [editor on GitHub](https://github.com/zhandyg/SeismicMatch-Location/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 说明
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1、模板识别软件使用的是张淼老师（Miao Zhang, Dalhousie University (miao.zhang@dal.ca)）Matchlocation软件<br>
+参考文献如下：<br>
+Zhang M. and Wen L. An effective method for small event detection: match and locate (M&L).Geophysical Journal International, 200 (3), 1523-1537, 2015. [method introduction]<br>
+Zhang M. and Wen L. Earthquake characteristics before eruptions of Japan's Ontake volcano in 2007 and 2014. Geophysical Research Letters, 42 (17), 6982–6988, 2015. [application tovolcanic earthquake detection and location]<br>
+Zhang M. and Wen L. Seismological Evidence for a Low‐Yield Nuclear Test on 12 May 2010 in North Korea. Seismological Research Letters, 86 (1), 138-145, 2015. [application to lowyield nuclear test detection and location]<br>
+2、使用Pyhon脚本语言和JOPENS系统将内蒙古地震局地震监测中心测震台网数据自动转换成计算所需要的格式<br>
 
-### Markdown
+### 鸣谢
+计算平台搭建人员：张晖、翟浩、查斯、李娟<br>
+计算平台维护人员：翟浩、张晖<br>
+计算平台网页设计人员：周煊超、张晖<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 成果展示
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhandyg/SeismicMatch-Location/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1、[2018年敖汉旗震群]()<br>
+2、[2020和林格尔地震]()<br>
